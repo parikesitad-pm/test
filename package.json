@@ -1,0 +1,9 @@
+{
+  "name": "yarn",
+  "version": "1",
+  "description": "test",
+  "main": "start.js",
+  "repository": "https://github.com/parikesitad-pm/test.git",
+  "author": "ParikesitAD",
+  "license": "MIT"
+}
